@@ -37,7 +37,7 @@ nav ul li a{
     font-weight: bold;
 }
 
-nav ul li: last-child{
+nav ul li{
     margin-right: 0;
 }
 
